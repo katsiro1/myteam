@@ -1,0 +1,23 @@
+.jumbotron {
+    font-size: 150px;
+    background-attachment: fixed;
+    background-image: url(Chess\ Jumbo.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+}
+
+h1 {
+    color: lightgray;
+    text-align: center;
+    font-family: 'Lato';
+
+}
+.display-4 {
+    font-size: 75px;
+    font-family: 'Lato';
+}
+body {
+    font-family: 'Lato'
+}
